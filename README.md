@@ -1,10 +1,6 @@
-# Projeto_AvaliaRestaurante
-
-<div align = "center">
-<img scr = (https://github.com/isabellybarbosac/Projeto_AvaliaRestaurante/files/12819274/Metodos.e.ferramentas.de.desenvolvimento.de.software.1.pdf) />
-</div>
-<h3 align = "center">
-</h3><br>
-<h3>
+## Projeto_AvaliaRestaurante
 Repositório destinado a disciplina de Métodos e Ferramentas para Desenvolvimento de Software lecionada pelo professor Allyson Bonetti, cursada no quarto período do Curso Técnico Integrado em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará -  Campus Fortaleza.
-<h3/>
+<div align = "center">
+<img src = "https://github.com/isabellybarbosac/Projeto_AvaliaRestaurante/assets/125043792/8afdd2ec-c56b-4c0b-95b9-480753562417"
+ />
+</div>
